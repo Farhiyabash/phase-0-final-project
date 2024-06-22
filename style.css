@@ -1,0 +1,115 @@
+
+*{
+    margin: auto;
+    padding: auto;
+}
+
+body{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-size: larger;
+    background-color: pink;
+    margin: 1%;
+
+}
+
+/*#fullwebpage{
+    display: block;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background-color: pink;
+}*/
+
+
+
+  label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+    
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color: white;
+}
+
+
+#container{
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    background-color: transparent;
+}
+
+#paragraph{
+    font-size: large;
+}
+
+h1{
+    background-color:white;
+    color:pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-part{
+    text-align: left;
+    display: contents;
+    background-color: transparent;
+    margin: 2%;
+}
+
+/*img {
+        width: 300px;
+        height: auto;
+        margin-left: 295px;
+        margin-top: auto;
+    }*/
+
+
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        display: flow-root;
+      }
+
+      .specificblog{
+        display: flex;
+        margin: 5px;
+      }
+
+        
+  header {
+    color: #fff;
+    padding: 2px;
+    text-align: center;
+    font-size: x-large;
+  }
+  
+  footer {
+    background-color: pink;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+  }
